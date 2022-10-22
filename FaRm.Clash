@@ -18,7 +18,7 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxy-groups:
-  - name: 🗿 节点选择
+  - name: 🗿 【閒魚】雜貨站
     type: select
     proxies:
       - ♻️ 自动选择
@@ -44,12 +44,12 @@ proxy-groups:
     proxies:
       - 🛑 全球拦截
       - 🎯 全球直连
-      - 🗿 节点选择
+      - 🗿 【閒魚】雜貨站
   - name: 🎯 全球直连
     type: select
     proxies:
       - DIRECT
-      - 🗿 节点选择
+      - 🗿 【閒魚】雜貨站
       - ♻️ 自动选择
   - name: 🛑 全球拦截
     type: select
@@ -59,7 +59,7 @@ proxy-groups:
   - name: 🐟 漏网之鱼
     type: select
     proxies:
-      - 🗿 节点选择
+      - 🗿 【閒魚】雜貨站
       - 🎯 全球直连
       - ♻️ 自动选择
     use:
@@ -242,11 +242,11 @@ rules:
   - RULE-SET,icloud,🎯 全球直连
   - RULE-SET,apple,🎯 全球直连
   - RULE-SET,google,🎯 全球直连
-  - RULE-SET,proxy,🗿 节点选择
+  - RULE-SET,proxy,🗿 【閒魚】雜貨站
   - RULE-SET,direct,🎯 全球直连
   - RULE-SET,lancidr,🎯 全球直连
   - RULE-SET,cncidr,🎯 全球直连
-  - RULE-SET,telegramcidr,🗿 节点选择
+  - RULE-SET,telegramcidr,🗿 【閒魚】雜貨站
   - GEOIP,,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼
