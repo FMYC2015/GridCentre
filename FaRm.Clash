@@ -58,7 +58,8 @@ proxy-groups:
     type: select
     proxies:
       - 🗿 节点选择
-      - DIRECT
+      - 🎯 全球直连
+      - ♻️ 自动选择
     use:
       - BiHaiNode
       - OpenitNode
