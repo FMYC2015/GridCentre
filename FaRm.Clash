@@ -228,11 +228,12 @@ rules:
   - RULE-SET,reject,🛑 全球拦截
   - RULE-SET,icloud,🎯 全球直连
   - RULE-SET,apple,🎯 全球直连
-  - RULE-SET,google,🗿 节点选择
+  - RULE-SET,google,🎯 全球直连
   - RULE-SET,proxy,🗿 节点选择
   - RULE-SET,direct,🎯 全球直连
   - RULE-SET,lancidr,🎯 全球直连
   - RULE-SET,cncidr,🎯 全球直连
   - RULE-SET,telegramcidr,🗿 节点选择
+  - GEOIP,,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼
