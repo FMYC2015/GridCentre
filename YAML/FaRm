@@ -1,4 +1,4 @@
-roxies:
+proxies:
   - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
     1","ws-opts":{"path":"/","headers":{"host":"a.189.cn"}},"server":"106.12.168.13","port":"13156","uuid":"9bf4cba4-9e9e-4da4-8e65-f7c487c539df","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
