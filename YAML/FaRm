@@ -1,177 +1,197 @@
-proxies:
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
+roxies:
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
     1","ws-opts":{"path":"/","headers":{"host":"a.189.cn"}},"server":"106.12.168.13","port":"13156","uuid":"9bf4cba4-9e9e-4da4-8e65-f7c487c539df","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
     2","server":"182.61.40.115","port":"23846","uuid":"95ae7357-b4f5-4ff5-988a-c3b52d5eabbc","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"🇨🇳 中国 🛩️@GridCente
-    3","server":"14.29.124.174","port":11015,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
-  - {"type":"ss","name":"🇨🇳 中国 🛩️@GridCente
-    4","server":"14.29.124.174","port":11050,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    5","ws-opts":{"path":"/","headers":{"host":"sd.189.cn"}},"server":"47.93.231.218","port":"53022","uuid":"95fd7642-2160-4528-e909-3d526b533013","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"🇨🇳 中国 🛩️@GridCente
-    6","server":"14.29.124.174","port":11039,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
-  - {"type":"ss","name":"🇨🇳 中国 🛩️@GridCente
-    7","server":"14.29.124.174","port":11011,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
-  - {"type":"vmess","name":"🛩️@GridCente
-    8","ws-opts":{"path":"/je5x3pBN1vez3NQudNkB","headers":{"host":"simxe-1055-v2-1.hkg-r-kcd-d.nd.cjhh.mom"}},"server":"simxe-1055-v2-1.hkg-r-kcd-d.nd.cjhh.mom","port":"29978","uuid":"caac6285-511c-4a07-b6db-edfbdcfe3889","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    9","server":"165.154.244.29","port":"443","uuid":"f8c3fbfe-9f65-4861-b824-f0049aa55810","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🛩️@GridCente
-    10","ws-opts":{"path":"/je5x3pBN1vez3NQudNkB","headers":{"host":"s3.cjhh.beauty"}},"server":"kwdod-1056-v2-1.hkg-r-kcd-e.ap.cjhh.beauty","port":"29988","uuid":"caac6285-511c-4a07-b6db-edfbdcfe3889","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳 中国 🛩️@GridCente
-    11","server":"139.227.182.232","port":15010,"password":"TT5RvB","udp":true,"skip-cert-verify":true,"sni":"if2e.ft3.us"}
-  - {"type":"trojan","name":"🇨🇳 中国 🛩️@GridCente
-    12","server":"221.181.185.118","port":13325,"password":"M0041901","udp":true,"skip-cert-verify":true,"sni":"if22a.ft3.us"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    13","server":"165.154.244.29","port":"443","uuid":"f8c3fbfe-9f65-4861-b824-f0049aa55810","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"🇹🇼 台湾 🛩️@GridCente
-    14","server":"103.137.22.45","port":443,"cipher":"chacha20-ietf-poly1305","password":"55011c8548ff","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","tls":true,"host":"fn600mliness018.fnline.xyz"}}
-  - {"type":"trojan","name":"🇫🇷 法国 🛩️@GridCente
-    15","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true,"sni":"content-provider26.cdn-delivery.akamaicd.com"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    16","server":"111.45.22.246","port":"11928","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    17","server":"111.45.22.246","port":"11914","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    18","server":"111.45.22.246","port":"11931","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    19","server":"111.45.22.246","port":"9003","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    20","server":"111.45.22.136","port":"11931","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    21","server":"111.45.22.136","port":"11914","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇮🇩 印度尼西亚 🛩️@GridCente
-    22","ws-opts":{"path":"/v2ray","headers":{"host":"idnusa2.vpn-akcelluler.my.id"}},"server":"idnusa2.vpn-akcelluler.my.id","port":"443","uuid":"fc9c12e0-f4f2-4fc4-a30e-fc488bac7121","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸 美国 🛩️@GridCente
-    23","http-opts":{"path":["/"],"headers":{"Host":["154.85.62.219"]}},"server":"154.85.62.219","port":"64901","uuid":"b01cad59-e722-4455-9745-a1ca08db07b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇺🇸 美国 🛩️@GridCente
-    24","http-opts":{"path":["/"],"headers":{"Host":["154.85.56.140"]}},"server":"154.85.56.140","port":"22347","uuid":"9da624b8-9f9f-480a-a9e9-2e376ac8c49d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    25","http-opts":{"path":["/"],"headers":{"Host":["156.240.120.13"]}},"server":"156.240.120.13","port":"57661","uuid":"f360b24a-7b07-49be-9a16-d676c517974f","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    26","http-opts":{"path":["/"],"headers":{"Host":["156.240.112.59"]}},"server":"156.240.112.59","port":"24371","uuid":"96cc70cb-94eb-463e-b431-5ff1b30368b3","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    27","http-opts":{"path":["/"],"headers":{"Host":["156.240.119.242"]}},"server":"156.240.119.242","port":"33719","uuid":"a0b66cf7-9385-4643-9e61-3a885183bec1","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    28","http-opts":{"path":["/"],"headers":{"Host":["156.240.112.58"]}},"server":"156.240.112.58","port":"20870","uuid":"29c2062c-484f-44ea-a90f-1c7491ab62fb","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    29","server":"120.55.63.83","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    30","server":"s2.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    31","server":"s1.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    32","server":"s4.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    33","server":"106.55.234.95","port":"31372","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    34","server":"119.23.45.18","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"🇨🇳 中国 🛩️@GridCente
-    35","server":"14.29.124.174","port":11004,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
-  - {"type":"ss","name":"🛩️@GridCente
-    36","server":"103.172.116.6","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE"}
-  - {"type":"ss","name":"🛩️@GridCente
-    37","server":"103.172.116.6","port":9073,"cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX"}
-  - {"type":"ss","name":"🛩️@GridCente
-    38","server":"103.172.116.6","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
-  - {"type":"ss","name":"🛩️@GridCente
-    39","server":"103.172.116.6","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
-  - {"type":"ss","name":"🛩️@GridCente
-    40","server":"103.172.116.6","port":9040,"cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN"}
-  - {"type":"ss","name":"🛩️@GridCente
-    41","server":"103.172.116.5","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"type":"ss","name":"🛩️@GridCente
-    42","server":"103.172.116.6","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA"}
-  - {"type":"ss","name":"🛩️@GridCente
-    43","server":"103.172.116.6","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX"}
-  - {"type":"ss","name":"🛩️@GridCente
-    44","server":"103.172.116.6","port":9019,"cipher":"aes-256-cfb","password":"GA9KzeEgvfxNrgmM"}
-  - {"type":"ss","name":"🛩️@GridCente
-    45","server":"103.172.116.6","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY"}
-  - {"type":"ss","name":"🛩️@GridCente
-    46","server":"103.172.116.6","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"type":"ss","name":"🛩️@GridCente
-    47","server":"103.172.116.6","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
-  - {"type":"ss","name":"🛩️@GridCente
-    48","server":"103.172.116.6","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
-  - {"type":"ss","name":"🛩️@GridCente
-    49","server":"103.172.116.6","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt"}
-  - {"type":"ss","name":"🛩️@GridCente
-    50","server":"103.172.116.6","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
-  - {"type":"ss","name":"🛩️@GridCente
-    51","server":"103.172.116.6","port":9003,"cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
-  - {"type":"ss","name":"🛩️@GridCente
-    52","server":"103.172.116.5","port":9098,"cipher":"aes-256-cfb","password":"aLpQtfEZe445QyHk"}
-  - {"type":"ss","name":"🛩️@GridCente
-    53","server":"103.172.116.5","port":9010,"cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4"}
-  - {"type":"vmess","name":"🛩️@GridCente
-    54","ws-opts":{"path":"/je5x3pBN1vez3NQudNkB","headers":{"host":"s3.cjhh.beauty"}},"server":"ecdyd-1049-v2-7.hkg-r-kcd-c.ap.cjhh.beauty","port":"29938","uuid":"caac6285-511c-4a07-b6db-edfbdcfe3889","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"🇹🇼 台湾 🛩️@GridCente
-    55","server":"fn600mlines021.fnline.info","port":443,"cipher":"chacha20-ietf-poly1305","password":"0ac84efef442","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","tls":true,"host":"fn600mlines021.fnline.info"}}
-  - {"type":"ss","name":"🇹🇼 台湾 🛩️@GridCente
-    56","server":"fn600mliness017.fnline.xyz","port":443,"cipher":"chacha20-ietf-poly1305","password":"8812c0e4e2b0","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","tls":true,"host":"fn600mliness017.fnline.xyz"}}
-  - {"type":"vmess","name":"🛩️@GridCente
-    57","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"v2ray1.zhujicn2.org"}},"server":"141.101.114.33","port":"443","uuid":"e5a88ce2-fc1b-45d1-9c5f-553721d28004","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"🇨🇳 中国 🛩️@GridCente
-    58","server":"14.29.124.174","port":11048,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
-  - {"type":"trojan","name":"🇺🇸 美国 🛩️@GridCente
-    59","server":"jgwcc3.gaox.ml","port":443,"password":"b291d129-ee55-4801-a9b8-b5316e5c37b7","udp":true,"skip-cert-verify":true,"sni":"jgwcc3.gaox.ml"}
-  - {"type":"trojan","name":"🇺🇸 美国 🛩️@GridCente
-    60","server":"138.2.113.84","port":443,"password":"b291d129-ee55-4801-a9b8-b5316e5c37b7","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇸🇬 新加坡 🛩️@GridCente
-    61","server":"165.154.253.63","port":"443","uuid":"f8c3fbfe-9f65-4861-b824-f0049aa55810","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇯🇵 日本 🛩️@GridCente
-    62","server":"aeadjpaes01.xn--z4q48lcvp.com","port":443,"password":"94673e19-11fa-4370-8583-989e9eb1a710","udp":true,"skip-cert-verify":true,"sni":"aeadjpaes01.xn--z4q48lcvp.com"}
-  - {"type":"vmess","name":"🇸🇬 新加坡 🛩️@GridCente
-    63","server":"165.154.253.63","port":"443","uuid":"f8c3fbfe-9f65-4861-b824-f0049aa55810","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    64","server":"111.45.22.136","port":"11911","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"ssr","name":"🇨🇳 中国 🛩️@GridCente
-    65","server":"gzyd.183.817777.xyz","port":41111,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"zxOmdD","obfs-param":"ZDU3NTgyMjY2My5taWNyb3NvZnQuY29t","protocol-param":"22663:QqLoaY"}
-  - {"type":"ssr","name":"🇨🇳 中国 🛩️@GridCente
-    66","server":"gzyd.120.817777.xyz","port":41110,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"zxOmdD","obfs-param":"ZDU3NTgyMjY2My5taWNyb3NvZnQuY29t","protocol-param":"22663:QqLoaY"}
-  - {"type":"ssr","name":"🇨🇳 中国 🛩️@GridCente
-    67","server":"gzyd.120.817777.xyz","port":12000,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"zxOmdD","obfs-param":"ZDU3NTgyMjY2My5taWNyb3NvZnQuY29t","protocol-param":"22663:QqLoaY"}
-  - {"type":"ssr","name":"🇨🇳 中国 🛩️@GridCente
-    68","server":"hzlt.817777.xyz","port":12000,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"zxOmdD","obfs-param":"ZDU3NTgyMjY2My5taWNyb3NvZnQuY29t","protocol-param":"22663:QqLoaY"}
-  - {"type":"ss","name":"🛩️@GridCente
-    69","server":"103.172.116.5","port":9060,"cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    70","server":"111.45.22.136","port":"11913","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇯🇵 日本 🛩️@GridCente
-    71","ws-opts":{"path":"/images","headers":{"host":"shoutingtoutiao3.10010.com"}},"server":"aeadjpaes01.xn--z4q48lcvp.com","port":"80","uuid":"94673e19-11fa-4370-8583-989e9eb1a710","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"trojan","name":"🇭🇰 香港 🛩️@GridCente
-    72","server":"45.11.104.94","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    73","server":"120.79.75.120","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    74","server":"120.55.63.83","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    75","server":"s2.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    76","server":"120.79.75.120","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🛩️@GridCente
-    77","server":"31.222.226.177","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    78","server":"106.55.234.95","port":"31372","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"🇹🇼 台湾 🛩️@GridCente
-    79","server":"103.137.23.194","port":443,"cipher":"chacha20-ietf-poly1305","password":"8812c0e4e2b0","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mliness017.fnline.xyz"}}
-  - {"type":"ss","name":"🇹🇼 台湾 🛩️@GridCente
-    80","server":"fn600mliness017.fnline.xyz","port":443,"cipher":"chacha20-ietf-poly1305","password":"8812c0e4e2b0","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mliness017.fnline.xyz"}}
-  - {"type":"vmess","name":"🇺🇸 美国 🛩️@GridCente
-    81","http-opts":{"path":["/"],"headers":{"Host":["154.85.42.138"]}},"server":"154.85.42.138","port":"21335","uuid":"f60f5ff2-782d-4ed7-8c31-d676fbc956f5","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    82","http-opts":{"path":["/"],"headers":{"Host":["156.240.115.144"]}},"server":"156.240.115.144","port":"26638","uuid":"88f188ec-f65f-4fba-b265-42ad16e67473","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    83","server":"165.154.244.29","port":"443","uuid":"f8c3fbfe-9f65-4861-b824-f0049aa55810","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    84","server":"116.129.254.184","port":"11932","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 🛩️@GridCente
-    85","server":"183.232.229.134","port":"11932","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇸🇬 新加坡 🛩️@GridCente
-    86","server":"165.154.253.63","port":"443","uuid":"f8c3fbfe-9f65-4861-b824-f0049aa55810","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    87","http-opts":{"path":["/"],"headers":{"Host":["156.240.119.158"]}},"server":"156.240.119.158","port":"33921","uuid":"a292ec16-a675-4015-9e3d-a7589fd1f552","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰 香港 🛩️@GridCente
-    88","http-opts":{"path":["/"],"headers":{"Host":["156.240.114.45"]}},"server":"156.240.114.45","port":"57005","uuid":"816ed784-6323-4981-ba21-85f7766091c0","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    3","ws-opts":{"path":"/","headers":{"host":"sd.189.cn"}},"server":"47.93.231.218","port":"53022","uuid":"95fd7642-2160-4528-e909-3d526b533013","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    4","server":"139.227.182.232","port":15010,"password":"TT5RvB","udp":true,"skip-cert-verify":true,"sni":"if2e.ft3.us"}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    5","server":"221.181.185.118","port":13325,"password":"M0041901","udp":true,"skip-cert-verify":true,"sni":"if22a.ft3.us"}
+  - {"type":"ss","name":"🇹🇼 台湾 │🛩️@GridCente
+    6","server":"103.137.22.45","port":443,"cipher":"chacha20-ietf-poly1305","password":"55011c8548ff","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","tls":true,"host":"fn600mliness018.fnline.xyz"}}
+  - {"type":"vmess","name":"🇮🇩 印度尼西亚 │🛩️@GridCente
+    7","ws-opts":{"path":"/v2ray","headers":{"host":"idnusa2.vpn-akcelluler.my.id"}},"server":"idnusa2.vpn-akcelluler.my.id","port":"443","uuid":"fc9c12e0-f4f2-4fc4-a30e-fc488bac7121","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    8","http-opts":{"path":["/"],"headers":{"Host":["156.240.120.13"]}},"server":"156.240.120.13","port":"57661","uuid":"f360b24a-7b07-49be-9a16-d676c517974f","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    9","server":"120.55.63.83","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    10","server":"s2.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    11","server":"s1.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    12","server":"s4.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    13","server":"106.55.234.95","port":"31372","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    14","server":"119.23.45.18","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ss","name":"🇨🇳 中国 │🛩️@GridCente
+    15","server":"14.29.124.174","port":11004,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    16","ws-opts":{"path":"/je5x3pBN1vez3NQudNkB","headers":{"host":"s3.cjhh.beauty"}},"server":"ecdyd-1049-v2-7.hkg-r-kcd-c.ap.cjhh.beauty","port":"29938","uuid":"caac6285-511c-4a07-b6db-edfbdcfe3889","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇹🇼 台湾 │🛩️@GridCente
+    17","server":"fn600mlines021.fnline.info","port":443,"cipher":"chacha20-ietf-poly1305","password":"0ac84efef442","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","tls":true,"host":"fn600mlines021.fnline.info"}}
+  - {"type":"ss","name":"🇹🇼 台湾 │🛩️@GridCente
+    18","server":"fn600mliness017.fnline.xyz","port":443,"cipher":"chacha20-ietf-poly1305","password":"8812c0e4e2b0","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","tls":true,"host":"fn600mliness017.fnline.xyz"}}
+  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@GridCente
+    19","server":"45.11.104.94","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    20","server":"120.79.75.120","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    21","server":"120.55.63.83","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    22","server":"s2.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    23","server":"120.79.75.120","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"│🛩️@GridCente
+    24","server":"31.222.226.177","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    25","server":"106.55.234.95","port":"31372","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ss","name":"🇨🇳 中国 │🛩️@GridCente
+    26","server":"14.29.124.174","port":11007,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"trojan","name":"🇫🇷 法国 │🛩️@GridCente
+    27","server":"51.77.71.131","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷 法国 │🛩️@GridCente
+    28","server":"content-provider5.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true,"sni":"content-provider5.cdn-delivery.akamaicd.com"}
+  - {"type":"trojan","name":"🇫🇷 法国 │🛩️@GridCente
+    29","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true,"sni":"content-provider12.cdn-delivery.akamaicd.com"}
+  - {"type":"trojan","name":"🇯🇵 日本 │🛩️@GridCente
+    30","server":"jp2.sanfen001.pics","port":443,"password":"d45e6245-926b-4283-8c72-91e229d6c5f5","udp":true,"skip-cert-verify":true,"sni":"jp2.sanfen001.pics"}
+  - {"type":"trojan","name":"│🛩️@GridCente
+    31","server":"idc1.vpn-akcelluler.my.id","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true,"sni":"idc1.vpn-akcelluler.my.id"}
+  - {"type":"trojan","name":"│🛩️@GridCente
+    32","server":"103.176.78.153","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸 美国 │🛩️@GridCente
+    33","http-opts":{"path":["/"],"headers":{"Host":["154.85.49.84"]}},"server":"154.85.49.84","port":"54823","uuid":"ed98e774-b435-4c53-9460-10b36a6bce35","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    34","http-opts":{"path":["/"],"headers":{"Host":["47.243.182.204"]}},"server":"47.243.182.204","port":"22082","uuid":"f46292d1-a5c6-44e3-9539-c45ea9f7ec6a","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    35","http-opts":{"path":["/"],"headers":{"Host":["156.240.117.24"]}},"server":"156.240.117.24","port":"38521","uuid":"374c191b-2265-43e2-be5b-ee823d55efb5","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    36","http-opts":{"path":["/"],"headers":{"Host":["156.240.120.190"]}},"server":"156.240.120.190","port":"59024","uuid":"c2f0a14d-ae16-4631-b6f7-dd580d8737d4","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    37","server":"106.75.154.24","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    38","server":"116.129.253.191","port":3385,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    39","server":"116.129.254.29","port":3385,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    40","server":"120.241.144.204","port":3385,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    41","server":"5.44.249.156","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    42","server":"5.44.249.42","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    43","server":"5.44.249.43","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    44","server":"5.44.249.44","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    45","server":"5.44.249.45","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    46","server":"5.44.249.50","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    47","server":"5.44.249.51","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    48","server":"5.44.249.52","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    49","server":"5.44.249.53","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    50","server":"106.75.154.24","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    51","server":"116.129.253.191","port":3385,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    52","server":"116.129.254.29","port":3385,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    53","server":"120.241.144.204","port":3385,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    54","server":"5.44.249.156","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    55","server":"5.44.249.157","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    56","server":"5.44.249.42","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    57","server":"5.44.249.43","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    58","server":"5.44.249.44","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    59","server":"5.44.249.45","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    60","server":"5.44.249.50","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    61","server":"5.44.249.51","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    62","server":"5.44.249.52","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@GridCente
+    63","server":"5.44.249.53","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"│🛩️@GridCente
+    64","server":"103.172.116.6","port":9011,"cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    65","server":"s1.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    66","server":"s4.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    67","server":"120.55.63.83","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    68","server":"119.23.45.18","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇦🇺 澳大利亚 │🛩️@GridCente
+    69","server":"tratw1.bitznet.one","port":32003,"password":"93eaf6ea-2585-463a-a577-64b5750f5292","udp":true,"skip-cert-verify":true,"sni":"tratw1.bitznet.one"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    70","server":"s3.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇸🇬 新加坡 │🛩️@GridCente
+    71","ws-opts":{"path":"/fastssh/fghhh/634197c4cdf81/","headers":{"host":"51.79.164.146"}},"server":"51.79.164.146","port":"443","uuid":"a9481600-ef36-402a-a0e5-5547bfd7b87c","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇳🇱 荷兰 │🛩️@GridCente
+    72","ws-opts":{"path":"/sshocean","headers":{"host":"nl2.v2rayserv.com"}},"server":"nl2.v2rayserv.com","port":"80","uuid":"364cf68d-8821-4e57-8189-0d16bac31a58","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    73","server":"116.129.254.184","port":"9028","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    74","server":"116.129.254.184","port":"9023","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@GridCente
+    75","server":"hk2.sanfen001.pics","port":443,"password":"d45e6245-926b-4283-8c72-91e229d6c5f5","udp":true,"skip-cert-verify":true,"sni":"hk2.sanfen001.pics"}
+  - {"type":"trojan","name":"🇫🇷 法国 │🛩️@GridCente
+    76","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true,"sni":"content-provider26.cdn-delivery.akamaicd.com"}
+  - {"type":"vmess","name":"🇺🇸 美国 │🛩️@GridCente
+    77","http-opts":{"path":["/"],"headers":{"Host":["154.85.56.140"]}},"server":"154.85.56.140","port":"22347","uuid":"9da624b8-9f9f-480a-a9e9-2e376ac8c49d","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇺🇸 美国 │🛩️@GridCente
+    78","http-opts":{"path":["/"],"headers":{"Host":["154.85.62.219"]}},"server":"154.85.62.219","port":"64901","uuid":"b01cad59-e722-4455-9745-a1ca08db07b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    79","http-opts":{"path":["/"],"headers":{"Host":["156.240.115.144"]}},"server":"156.240.115.144","port":"26638","uuid":"88f188ec-f65f-4fba-b265-42ad16e67473","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    80","http-opts":{"path":["/"],"headers":{"Host":["156.240.112.58"]}},"server":"156.240.112.58","port":"20870","uuid":"29c2062c-484f-44ea-a90f-1c7491ab62fb","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    81","http-opts":{"path":["/"],"headers":{"Host":["156.240.119.242"]}},"server":"156.240.119.242","port":"33719","uuid":"a0b66cf7-9385-4643-9e61-3a885183bec1","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    82","http-opts":{"path":["/"],"headers":{"Host":["156.240.119.249"]}},"server":"156.240.119.249","port":"27557","uuid":"718ae059-94a0-49be-8bbb-d01cea95070a","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    83","http-opts":{"path":["/"],"headers":{"Host":["156.240.118.228"]}},"server":"156.240.118.228","port":"61942","uuid":"c7b15b4e-ba59-40c5-b2f4-c962bc60d1ce","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    84","http-opts":{"path":["/"],"headers":{"Host":["156.240.114.20"]}},"server":"156.240.114.20","port":"38709","uuid":"37ed43e7-b54b-457e-9b7a-b00fb96e7f45","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@GridCente
+    85","http-opts":{"path":["/"],"headers":{"Host":["156.240.115.151"]}},"server":"156.240.115.151","port":"41011","uuid":"18bc4e28-059b-42c6-860d-e10a826bd8c6","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"ss","name":"🇨🇳 中国 │🛩️@GridCente
+    86","server":"14.29.124.174","port":11032,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"ss","name":"🇨🇳 中国 │🛩️@GridCente
+    87","server":"14.29.124.174","port":11044,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"vmess","name":"🇸🇬 新加坡 │🛩️@GridCente
+    88","server":"168.138.171.65","port":"443","uuid":"4af6fd9a-e8b4-46f2-da3a-207f4577656c","alterId":"0","cipher":"auto","network":"tcp","tls":true}
+  - {"type":"ss","name":"│🛩️@GridCente
+    89","server":"103.172.116.5","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
+  - {"type":"ss","name":"🇨🇳 中国 │🛩️@GridCente
+    90","server":"14.29.124.174","port":11049,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"ss","name":"🇨🇳 中国 │🛩️@GridCente
+    91","server":"14.29.124.168","port":24006,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    92","server":"111.45.22.136","port":"11913","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@GridCente
+    93","server":"111.45.22.136","port":"11921","uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"🇨🇳 中国 │🛩️@GridCente
+    94","server":"hnlt.817777.xyz","port":20524,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"zxOmdD","obfs-param":"ZDU3NTgyMjY2My5taWNyb3NvZnQuY29t","protocol-param":"22663:QqLoaY"}
+  - {"type":"ssr","name":"🇨🇳 中国 │🛩️@GridCente
+    95","server":"gzyd.183.817777.xyz","port":41111,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"zxOmdD","obfs-param":"ZDU3NTgyMjY2My5taWNyb3NvZnQuY29t","protocol-param":"22663:QqLoaY"}
+  - {"type":"vmess","name":"🇹🇼 台湾 │🛩️@GridCente
+    96","server":"tw-tb-c.zc20200426.club","port":"39999","uuid":"67c50f6a-816d-3555-89b4-19dd29608f8b","alterId":"0","cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@GridCente
+    97","server":"120.241.144.204","port":3382,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"│🛩️@GridCente
+    98","server":"103.172.116.6","port":9073,"cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX"}
