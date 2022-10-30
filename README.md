@@ -6,4 +6,4 @@
 
 [Telegram频道](https://t.me/GridCente)
 
-[Telegram群组](https://t.me/LoafingCenter)
+[Telegram群组](https://t.me/LoafingCter)
