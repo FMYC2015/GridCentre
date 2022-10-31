@@ -5,193 +5,235 @@ proxies:
     2","server":"v2cross.com.04.v2ce.com","port":443,"password":"vGWCNNfBHwSY6m6M","udp":true,"skip-cert-verify":true,"sni":"v2cross.com.04.v2ce.com"}
   - {"type":"trojan","name":"🇨🇿 捷克 │🛩️@LoafingCter
     3","server":"v2cross.com.02.v2ce.com","port":443,"password":"3gLlCYBipVwr6Y5F","udp":true,"skip-cert-verify":true,"sni":"v2cross.com.02.v2ce.com"}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    4","server":"ap.liangyuandian.top","port":443,"password":"53f20cd4-b381-4a80-8059-7bcd484bbb52","udp":true,"skip-cert-verify":true,"sni":"ap.liangyuandian.top"}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    5","server":"sg.liangyuandian.top","port":443,"password":"53f20cd4-b381-4a80-8059-7bcd484bbb52","udp":true,"skip-cert-verify":true,"sni":"sg.liangyuandian.top"}
   - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    6","server":"183.245.146.6","port":61004,"password":"1d1baf33-9764-4817-bf70-b3d6ccd061b9","udp":true,"skip-cert-verify":true}
+    4","server":"183.245.146.6","port":61004,"password":"1d1baf33-9764-4817-bf70-b3d6ccd061b9","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    5","server":"221.181.185.118","port":13325,"password":"M0041901","udp":true,"skip-cert-verify":true,"sni":"if22a.ft3.us"}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    6","server":"116.129.253.134","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    7","server":"116.129.253.134","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    8","server":"117.164.185.222","port":61001,"password":"1d1baf33-9764-4817-bf70-b3d6ccd061b9","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    9","server":"106.75.154.24","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
+    10","server":"211.72.35.153","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
+    11","server":"5.44.249.51","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
+    12","server":"5.44.249.51","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
+    13","server":"211.72.35.154","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
+    14","server":"5.44.249.51","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
+    15","server":"5.44.249.50","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    16","server":"117.164.185.222","port":21005,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    17","server":"117.164.185.222","port":21003,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    18","server":"117.164.185.222","port":21004,"password":"1d1baf33-9764-4817-bf70-b3d6ccd061b9","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    19","server":"117.164.185.222","port":21002,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    20","server":"117.164.185.222","port":21004,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    21","server":"120.79.75.120","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    22","server":"s1.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    23","server":"119.23.45.18","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    24","server":"s2.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    25","server":"s2.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    26","server":"111.45.22.246","port":"11932","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    27","server":"s3.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    28","server":"s1.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    29","server":"111.45.22.136","port":"11905","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    30","server":"183.232.229.132","port":"11919","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    31","server":"111.45.22.246","port":"11919","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    32","server":"111.45.22.136","port":"9038","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    33","server":"111.45.22.136","port":"11910","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    34","server":"111.45.22.136","port":"11906","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    35","server":"183.232.229.132","port":"11932","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    36","server":"111.45.22.136","port":"11908","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    37","server":"111.45.22.136","port":"11926","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    38","server":"111.45.22.136","port":"11917","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    39","server":"111.45.22.136","port":"11925","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    40","server":"183.232.229.132","port":"11914","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    41","server":"111.45.22.136","port":"11901","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    42","server":"111.45.22.246","port":"11906","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
+    43","server":"211.72.35.158","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    44","server":"111.45.22.136","port":"11914","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    45","server":"111.45.22.136","port":"11910","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    46","server":"111.45.22.136","port":"11913","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    47","server":"183.232.229.132","port":"11922","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    48","server":"116.129.254.184","port":"9001","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    49","server":"116.129.254.184","port":"11926","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    50","server":"183.232.229.132","port":"11928","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    51","server":"111.45.22.136","port":"11928","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    52","server":"111.45.22.246","port":"11922","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    53","server":"111.45.22.136","port":"11922","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    54","server":"111.45.22.136","port":"11903","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    55","server":"116.129.254.184","port":"11919","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    56","server":"116.129.254.184","port":"11917","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    57","server":"116.129.254.184","port":"9003","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    58","server":"116.129.254.184","port":"11935","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    59","server":"183.232.229.132","port":"11935","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    60","server":"111.45.22.246","port":"11910","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    61","server":"111.45.22.136","port":"11914","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    62","server":"111.45.22.136","port":"11904","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    63","server":"116.129.254.184","port":"11904","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    64","server":"116.129.254.184","port":"11913","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    65","server":"116.129.254.184","port":"9008","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    66","server":"116.129.254.184","port":"11927","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    67","server":"111.45.22.136","port":"11905","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    68","server":"111.45.22.136","port":"9044","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    69","server":"111.45.22.136","port":"11927","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    70","server":"116.129.254.184","port":"9010","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    71","server":"116.129.254.184","port":"11925","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    72","server":"116.129.254.184","port":"9016","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    73","server":"116.129.254.184","port":"9017","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    74","server":"116.129.254.184","port":"9012","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    75","server":"116.129.254.184","port":"9015","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    76","server":"116.129.254.184","port":"9013","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    77","server":"116.129.254.184","port":"9014","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    78","server":"111.45.22.136","port":"11919","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    79","server":"116.129.254.184","port":"11915","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    80","server":"111.45.22.136","port":"11915","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    81","server":"183.232.229.132","port":"11910","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    82","server":"116.129.254.184","port":"9005","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    83","server":"116.129.254.184","port":"11929","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    84","server":"183.232.229.132","port":"11904","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    85","server":"116.129.254.184","port":"11914","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    86","server":"111.45.22.136","port":"9045","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    87","server":"116.129.254.184","port":"11905","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    88","server":"116.129.254.184","port":"11903","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    89","server":"111.45.22.136","port":"11916","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    90","server":"116.129.254.184","port":"11933","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    91","server":"116.129.254.184","port":"11932","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    92","server":"116.129.254.184","port":"9009","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    93","server":"47.94.85.209","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
+    94","server":"43.229.153.167","port":443,"password":"ce6237ef-7bff-45e9-8854-57287dfd3a15","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇭 瑞士 │🛩️@LoafingCter
+    95","server":"185.126.116.235","port":443,"password":"28d98f761aca9d636f44db62544628eb","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
-    7","server":"51.81.82.15","port":443,"password":"c2b0a060-44b0-11ed-ad2e-1239d0255272","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    8","server":"usa.liangyuandian.top","port":443,"password":"176196e4-7cf7-4561-87a9-21a1b4e344be","udp":true,"skip-cert-verify":true,"sni":"usa.liangyuandian.top"}
-  - {"type":"trojan","name":"🇧🇭 巴林 │🛩️@LoafingCter
-    9","server":"23.247.137.70","port":3389,"password":"d4e41ff772c7fd45","udp":true,"skip-cert-verify":true}
+    96","server":"173.82.192.61","port":443,"password":"7NzqVeVxSEsrdvgsdvsdsafcsdgvdfbgSDGFVDGVDSG","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
+    97","server":"170.187.182.212","port":443,"password":"a1e12464-9208-4583-bd21-ab6889fdd242","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    10","server":"221.181.185.118","port":13325,"password":"M0041901","udp":true,"skip-cert-verify":true,"sni":"if22a.ft3.us"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    11","server":"ussj.iamnotagoodman.com","port":443,"password":"28bccca2-43d2-47f8-bd63-b1361ce7d362","udp":true,"skip-cert-verify":true,"sni":"ussj.iamnotagoodman.com"}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    12","server":"usa.liangyuandian.top","port":443,"password":"53f20cd4-b381-4a80-8059-7bcd484bbb52","udp":true,"skip-cert-verify":true,"sni":"usa.liangyuandian.top"}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    13","server":"116.129.253.134","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    14","server":"116.129.253.134","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    15","server":"hgc.iamnotagoodman.com","port":443,"password":"2ac7fc8a-68b5-4809-8bd2-73a593bae292","udp":true,"skip-cert-verify":true,"sni":"hgc.iamnotagoodman.com"}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    16","server":"116.129.254.29","port":3385,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    17","server":"117.164.185.222","port":61001,"password":"1d1baf33-9764-4817-bf70-b3d6ccd061b9","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    18","server":"106.75.154.24","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    19","server":"116.129.254.29","port":3385,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
-  - {"type":"ss","name":"🇺🇸 美国 │🛩️@LoafingCter
-    20","server":"45.79.83.134","port":20020,"cipher":"aes-128-gcm","password":"202022100000000000000020","plugin":"obfs","plugin-opts":{"mode":"http","host":"securevpn.cc"}}
-  - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
-    21","server":"211.72.35.153","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    22","server":"116.129.253.191","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    23","server":"5.44.249.51","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    24","server":"5.44.249.50","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    25","server":"5.44.249.51","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
-    26","server":"211.72.35.154","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    27","server":"5.44.249.51","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    28","server":"5.44.249.50","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    29","server":"183.232.229.132","port":"11927","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    30","server":"117.164.185.222","port":21005,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    31","server":"117.164.185.222","port":21003,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    32","server":"117.164.185.222","port":21004,"password":"1d1baf33-9764-4817-bf70-b3d6ccd061b9","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    33","server":"117.164.185.222","port":21002,"password":"1d1baf33-9764-4817-bf70-b3d6ccd061b9","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    34","server":"117.164.185.222","port":21002,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    35","server":"117.164.185.222","port":21003,"password":"1d1baf33-9764-4817-bf70-b3d6ccd061b9","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    36","server":"117.164.185.222","port":21004,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@LoafingCter
-    37","http-opts":{"path":["/"],"headers":{"Host":["156.240.115.144"]}},"server":"156.240.115.144","port":"60489","uuid":"d04d549f-ce8f-4c02-84aa-414fa7d437f8","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    38","server":"120.79.75.120","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    39","server":"s1.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@LoafingCter
-    40","http-opts":{"path":["/"],"headers":{"Host":["156.240.119.242"]}},"server":"156.240.119.242","port":"45894","uuid":"b989f1b4-d986-45d6-8f9c-9d727e9b82c5","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰 香港 │🛩️@LoafingCter
-    41","http-opts":{"path":["/"],"headers":{"Host":["156.240.115.151"]}},"server":"156.240.115.151","port":"28080","uuid":"03fc8a2d-f140-4a62-81ec-80ac623893f0","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    42","server":"119.23.45.18","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    43","server":"s2.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    44","server":"s2.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    45","server":"jp.iamnotagoodman.com","port":443,"password":"2ac7fc8a-68b5-4809-8bd2-73a593bae292","udp":true,"skip-cert-verify":true,"sni":"jp.iamnotagoodman.com"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    46","server":"ar.iamnotagoodman.com","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","udp":true,"skip-cert-verify":true,"sni":"ar.iamnotagoodman.com"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    47","server":"s3.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    48","server":"lux.iamnotagoodman.com","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","udp":true,"skip-cert-verify":true,"sni":"lux.iamnotagoodman.com"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    49","server":"111.45.22.246","port":"11932","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    50","server":"s3.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    51","server":"s1.mine.com.cn","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    52","server":"119.23.45.18","port":"4433","uuid":"77a286f4-0a0b-4ef7-aaef-a4fff60872e9","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    53","server":"111.45.22.136","port":"11905","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    54","server":"lux.iamnotagoodman.com","port":443,"password":"2ac7fc8a-68b5-4809-8bd2-73a593bae292","udp":true,"skip-cert-verify":true,"sni":"lux.iamnotagoodman.com"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    55","server":"111.45.22.136","port":"9040","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    56","server":"183.232.229.132","port":"11919","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    57","server":"111.45.22.246","port":"11919","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    58","server":"111.45.22.136","port":"9007","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    59","server":"111.45.22.136","port":"11911","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    60","server":"183.232.229.132","port":"11911","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    61","server":"111.45.22.136","port":"9038","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    62","server":"111.45.22.136","port":"9041","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    63","server":"111.45.22.136","port":"11910","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    64","server":"111.45.22.136","port":"11932","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    65","server":"111.45.22.136","port":"11906","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    66","server":"183.232.229.132","port":"11932","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    67","server":"111.45.22.246","port":"11906","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    68","server":"111.45.22.136","port":"11908","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    69","server":"111.45.22.136","port":"11926","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    70","server":"111.45.22.136","port":"9039","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    71","server":"111.45.22.136","port":"11917","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    72","ws-opts":{"path":"/fastssh/putdcbb/63500f2541b87/","headers":{"host":"51.79.164.146"}},"server":"51.79.164.146","port":"80","uuid":"2ef64dc8-ca3c-45b8-ad5f-20871452143b","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    73","server":"111.45.22.136","port":"11925","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    74","server":"183.232.229.132","port":"11914","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    75","server":"111.45.22.136","port":"11901","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    76","server":"111.45.22.136","port":"11933","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    77","server":"111.45.22.246","port":"11906","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    78","server":"111.45.22.136","port":"9010","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+    98","server":"116.129.254.47","port":3389,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵 日本 │🛩️@LoafingCter
+    99","server":"106.180.225.69","port":1443,"password":"7x42LetRa0","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"│🛩️@LoafingCter
+    100","server":"103.173.155.72","port":28443,"password":"6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇹🇼 台湾 │🛩️@LoafingCter
+    101","server":"tw-tb-b.zc20200426.club","port":"39998","uuid":"67c50f6a-816d-3555-89b4-19dd29608f8b","alterId":"0","cipher":"auto","network":"tcp","tls":true}
   - {"type":"vmess","name":"🇺🇸 美国 │🛩️@LoafingCter
-    79","ws-opts":{"path":"/sshkit/Ertusg86/635014638c264/","headers":{"host":"15.235.147.186"}},"server":"15.235.147.186","port":"80","uuid":"6fea1649-425b-4092-bf53-29792152c925","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇺🇸 美国 │🛩️@LoafingCter
-    80","ws-opts":{"path":"/","headers":{"host":"143.198.151.24"}},"server":"143.198.151.24","port":"30007","uuid":"6695a093-6c1c-432a-b0ca-ce3036916bd7","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    81","server":"111.45.22.136","port":"11911","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
-    82","server":"43.198.12.229","port":28443,"password":"b0a3ce89-1afe-4748-b8b6-6eaf0a53f5f5","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
-    83","server":"43.198.12.229","port":28443,"password":"8fe3b905-b933-4a3f-aa33-40a73ec93c69","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
-    84","server":"43.198.12.229","port":28443,"password":"750a29bf-0a40-437f-b120-38de74ae7eaf","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
-    85","server":"43.198.12.229","port":28443,"password":"a68ff64d-1987-4ff2-a7a5-f161b952be13","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
-    86","server":"43.198.12.229","port":28443,"password":"16c267c7-9734-4703-b3fb-5a23c2ab7fda","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
-    87","server":"43.198.12.229","port":28443,"password":"41dbac14-48c9-402a-9c30-a63acbae2522","udp":true,"skip-cert-verify":true}
+    102","http-opts":{"path":["/"],"headers":{"Host":["154.85.62.219"]}},"server":"154.85.62.219","port":"56924","uuid":"6c086fcc-6b05-4a28-9c3d-30a949585b25","alterId":"0","cipher":"auto","network":"http"}
   - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
-    88","server":"116.129.254.29","port":3383,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+    103","server":"106.75.154.24","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳 中国 │🛩️@LoafingCter
+    104","server":"106.75.173.173","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇸🇬 新加坡 │🛩️@LoafingCter
-    89","server":"ap.liangyuandian.top","port":443,"password":"176196e4-7cf7-4561-87a9-21a1b4e344be","udp":true,"skip-cert-verify":true,"sni":"ap.liangyuandian.top"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    90","server":"de.iamnotagoodman.com","port":443,"password":"28bccca2-43d2-47f8-bd63-b1361ce7d362","udp":true,"skip-cert-verify":true,"sni":"de.iamnotagoodman.com"}
+    105","server":"sg-relay.iqyun.zone","port":443,"password":"fbb2cc06-b018-4ad0-bb27-baa4a834807f","udp":true,"skip-cert-verify":true,"sni":"sg-relay.iqyun.zone"}
   - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
-    91","server":"211.72.35.158","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    92","server":"usla.iamnotagoodman.com","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","udp":true,"skip-cert-verify":true,"sni":"usla.iamnotagoodman.com"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    93","server":"sg.iamnotagoodman.com","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","udp":true,"skip-cert-verify":true,"sni":"sg.iamnotagoodman.com"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    94","server":"de.iamnotagoodman.com","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","udp":true,"skip-cert-verify":true,"sni":"de.iamnotagoodman.com"}
-  - {"type":"trojan","name":"🇭🇰 香港 │🛩️@LoafingCter
-    95","server":"hgc.iamnotagoodman.com","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","udp":true,"skip-cert-verify":true,"sni":"hgc.iamnotagoodman.com"}
+    106","server":"211.72.35.156","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
+    107","server":"211.72.35.157","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
+    108","server":"211.72.35.155","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇹🇼 台湾 │🛩️@LoafingCter
+    109","server":"211.72.35.152","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
+    110","server":"141.147.191.85","port":28443,"password":"750a29bf-0a40-437f-b120-38de74ae7eaf","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    96","server":"111.45.22.136","port":"11911","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+    111","server":"116.129.254.184","port":"9009","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    97","server":"111.45.22.136","port":"11914","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+    112","server":"116.129.254.184","port":"11925","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
-    98","server":"111.45.22.136","port":"11910","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+    113","server":"116.129.254.184","port":"9012","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    114","server":"116.129.254.184","port":"9009","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳 中国 │🛩️@LoafingCter
+    115","server":"116.129.254.184","port":"9016","uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
+    116","server":"aidangaiguo4.aiguoxuexi.com","port":995,"password":"ee4fff2a-540e-4ac7-a16a-935567dfc36b","udp":true,"skip-cert-verify":true,"sni":"aidangaiguo4.aiguoxuexi.com"}
+  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
+    117","server":"aidangaiguo2.aiguoxuexi.com","port":995,"password":"ee4fff2a-540e-4ac7-a16a-935567dfc36b","udp":true,"skip-cert-verify":true,"sni":"aidangaiguo2.aiguoxuexi.com"}
+  - {"type":"ss","name":"🇨🇳 中国 │🛩️@LoafingCter
+    118","server":"ink-szzf-jp.inkiwike.com","port":22320,"cipher":"chacha20-ietf-poly1305","password":"ee4fff2a-540e-4ac7-a16a-935567dfc36b"}
+  - {"type":"trojan","name":"🇺🇸 美国 │🛩️@LoafingCter
+    119","server":"gongchan1.aiguoxuexi.com","port":7800,"password":"ee4fff2a-540e-4ac7-a16a-935567dfc36b","udp":true,"skip-cert-verify":true,"sni":"gongchan1.aiguoxuexi.com"}
