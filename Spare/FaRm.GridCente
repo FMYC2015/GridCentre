@@ -24,7 +24,7 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
     use:
-      - GridCentre
+      - 🛩️LoafingCter
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -32,7 +32,7 @@ proxy-groups:
     tolerance: 50
     proxies:
     use:
-      - GridCentre
+      - 🛩️LoafingCter
   - name: 🚫 运营劫持
     type: select
     proxies:
@@ -57,11 +57,11 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
     use:
-      - GridCentre
+      - 🛩️LoafingCter
 proxy-providers:
-  GridCentre:
+  🛩️LoafingCter:
     type: http
-    url: "https://raw.fastgit.org/FMYC2015/GridCentre/Gates/YAML/FaRm"
+    url: "https://proxies.bihai.cf/clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=vmess,trojan&filter=rp"
     path: FaRm.Clash/FaRm.yaml
     interval: 3600
     health-check:
