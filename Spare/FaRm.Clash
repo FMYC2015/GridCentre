@@ -67,7 +67,7 @@ proxy-groups:
 proxy-providers:
   🛩️LoafingCter:
     type: http
-    url: "https://proxies.bihai.cf/clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=vmess,trojan&filter=rp"
+    url: "https://proxies.bihai.cf/clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=ss,ssr,vmess,trojan&filter=rp"
     path: FaRm.Clash/FaRm.yaml
     interval: 3600
     health-check:
