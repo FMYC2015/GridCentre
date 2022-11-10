@@ -24,7 +24,7 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
     use:
-      - 🛩️LoafingCter
+      - BihaiNode
       - OpenitNode
       - PaimonNode
   - name: ♻️ 自动选择
@@ -34,7 +34,7 @@ proxy-groups:
     tolerance: 50
     proxies:
     use:
-      - 🛩️LoafingCter
+      - BihaiNode
       - OpenitNode
       - PaimonNode
   - name: 🚫 运营劫持
@@ -61,14 +61,14 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
     use:
-      - 🛩️LoafingCter
+      - BihaiNode
       - OpenitNode
       - PaimonNode
 proxy-providers:
   BihaiNode:
     type: http
     url: "https://proxies.bihai.cf/clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=ss,ssr,vmess,trojan&filter=rp"
-    path: BihaiNode.Clash/BihaiNode.yaml
+    path: Bihai.Clash/BihaiNode.yaml
     interval: 3600
     health-check:
       enable: true
