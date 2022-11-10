@@ -25,7 +25,6 @@ proxy-groups:
       - DIRECT
     use:
       - 🛩️LoafingCter
-      - HerokuNode
       - OpenitNode
       - PaimonNode
   - name: ♻️ 自动选择
@@ -36,7 +35,6 @@ proxy-groups:
     proxies:
     use:
       - 🛩️LoafingCter
-      - HerokuNode
       - OpenitNode
       - PaimonNode
   - name: 🚫 运营劫持
@@ -64,29 +62,18 @@ proxy-groups:
       - ♻️ 自动选择
     use:
       - 🛩️LoafingCter
-      - HerokuNode
       - OpenitNode
       - PaimonNode
 proxy-providers:
-  🛩️LoafingCter:
+  BihaiNode:
     type: http
     url: "https://proxies.bihai.cf/clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=ss,ssr,vmess,trojan&filter=rp"
-    path: FaRm.Clash/FaRm.yaml
+    path: BihaiNode.Clash/BihaiNode.yaml
     interval: 3600
     health-check:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-  HerokuNode:
-    type: http
-    url: "https://sspool.herokuapp.com/clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=vmess,trojan"
-    path: HerokuNode.Clash/HerokuNode.yaml
-    interval: 3600
-    health-check:
-      enable: true
-      interval: 300
-      url: http://www.gstatic.com/generate_204
-  OpenitNode:
     type: http
     url: "https://raw.fastgit.org/yu-steven/openit/main/Clash.yaml"
     path: OpenitNode.Clash/OpenitNode.yaml
