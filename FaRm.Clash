@@ -68,13 +68,13 @@ proxy-providers:
   BihaiNode:
     type: http
     url: "https://proxies.bihai.cf/clash/proxies?c=CN,HK,MO,TW&type=ss,ssr,vmess,trojan&filter=rp"
-    path: Bihai.Clash/BihaiNode.yaml
+    path: BiHai.Clash/BiHaiNode.yaml
     interval: 3600
     health-check:
       enable: true
       interval: 300
       url: http://www.gstatic.com/generate_204
-  OpenitNode
+  OpenitNode:
     type: http
     url: "https://raw.fastgit.org/yu-steven/openit/main/Clash.yaml"
     path: OpenitNode.Clash/OpenitNode.yaml
