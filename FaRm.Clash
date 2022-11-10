@@ -79,7 +79,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   HerokuNode:
     type: http
-    url: "https://sspool.herokuapp.com//clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=vmess,trojan"
+    url: "https://sspool.herokuapp.com/clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=vmess,trojan"
     path: HerokuNode.Clash/HerokuNode.yaml
     interval: 3600
     health-check:
