@@ -24,7 +24,6 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
     use:
-      - 🛩️LoafingCter
       - OpenitNode
       - PaimonNode
   - name: ♻️ 自动选择
@@ -34,7 +33,6 @@ proxy-groups:
     tolerance: 50
     proxies:
     use:
-      - 🛩️LoafingCter
       - OpenitNode
       - PaimonNode
   - name: 🚫 运营劫持
@@ -61,19 +59,9 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
     use:
-      - 🛩️LoafingCter
       - OpenitNode
       - PaimonNode
 proxy-providers:
-  🛩️LoafingCter:
-    type: http
-    url: "https://proxies.bihai.cf/clash/proxies?c=CN,HK,MO,TW&speed=3,9&type=ss,ssr,vmess,trojan&filter=rp"
-    path: FaRm.Clash/FaRm.yaml
-    interval: 3600
-    health-check:
-      enable: true
-      interval: 300
-      url: http://www.gstatic.com/generate_204
   OpenitNode:
     type: http
     url: "https://raw.fastgit.org/yu-steven/openit/main/Clash.yaml"
@@ -85,7 +73,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   PaimonNode:
     type: http
-    url: "https://raw.fastgit.org/paimonhub/Paimonnode/main/publish/clash.yaml"
+    url: "https://raw.fastgit.org/paimonhub/Paimonnode/main/clash.yaml"
     path: PaimonNode.Clash/PaimonNode.yaml
     interval: 3600
     health-check:
