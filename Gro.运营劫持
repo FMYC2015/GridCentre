@@ -23,6 +23,8 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ 自动选择
+      - 🔯 故障转移
+      - 🔮 负载均衡
       - DIRECT
       - *
   - name: ♻️ 自动选择
@@ -37,7 +39,20 @@ proxy-groups:
     proxies:
       - 🛑 全球拦截
       - 🎯 全球直连
-      - 🗿 节点选择    
+      - 🗿 节点选择
+  - name: 🔯 故障转移
+    type: fallback
+    url: http://www.gstatic.com/generate_204
+    interval: 180
+    proxies:
+      - *
+  - name: 🔮 负载均衡
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://www.gstatic.com/generate_204
+    interval: 180
+    proxies:
+      - *
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -55,6 +70,8 @@ proxy-groups:
       - 🗿 节点选择  
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 🔯 故障转移
+      - 🔮 负载均衡
       - *
 rule-providers:
   reject:
